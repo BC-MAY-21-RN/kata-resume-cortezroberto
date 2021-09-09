@@ -98,13 +98,13 @@ skills:
       level: 60%
 
     - name: Javascript
-      level: 40%
+      level: 60%
 
     - name: React
-      level: 40%
+      level: 70%
 
     - name: Git & GitHub
-      level: 40%
+      level: 80%
 
 # NO MODIFICAR
 footer: >
